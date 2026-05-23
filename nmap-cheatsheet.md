@@ -4,7 +4,7 @@
 
 ---
 
-## 1. 🎯 Target Specification
+## 1. Target Specification
 
 Cara menentukan target: IP tunggal, range, subnet, hostname, hingga file input.
 
@@ -22,7 +22,7 @@ Cara menentukan target: IP tunggal, range, subnet, hostname, hingga file input.
 
 ---
 
-## 2. 🔍 Basic Scanning Techniques
+## 2. Basic Scanning Techniques
 
 Jenis scan yang umum digunakan, masing-masing dengan karakteristik dan kegunaan berbeda.
 
@@ -43,7 +43,7 @@ Jenis scan yang umum digunakan, masing-masing dengan karakteristik dan kegunaan 
 
 ---
 
-## 3. 🔌 Port Selection Options
+## 3. Port Selection Options
 
 Kontrol port mana yang di-scan untuk efisiensi dan presisi.
 
@@ -61,7 +61,7 @@ Kontrol port mana yang di-scan untuk efisiensi dan presisi.
 
 ---
 
-## 4. 🔬 Service and OS Detection
+## 4. Service and OS Detection
 
 Identifikasi versi layanan yang berjalan dan sistem operasi target.
 
@@ -79,7 +79,7 @@ Identifikasi versi layanan yang berjalan dan sistem operasi target.
 
 ---
 
-## 5. ⏱️ Timing and Performance
+## 5. Timing and Performance
 
 Kontrol kecepatan scan — penting untuk menghindari deteksi atau mempercepat proses.
 
@@ -106,7 +106,7 @@ Kontrol kecepatan scan — penting untuk menghindari deteksi atau mempercepat pr
 
 ---
 
-## 6. 🛡️ Firewall / IDS Evasion & Spoofing
+## 6. Firewall / IDS Evasion & Spoofing
 
 Teknik untuk melewati firewall, IDS/IPS, atau menyembunyikan identitas scanner.
 
@@ -129,7 +129,7 @@ Teknik untuk melewati firewall, IDS/IPS, atau menyembunyikan identitas scanner.
 
 ---
 
-## 7. 📜 Nmap Scripting Engine (NSE)
+## 7. Nmap Scripting Engine (NSE)
 
 NSE memungkinkan otomasi task lanjutan: vulnerability detection, brute force, enumeration, dll.
 
@@ -191,7 +191,7 @@ nmap --script mysql-info,mysql-empty-password -p 3306 10.0.0.1
 
 ---
 
-## 8. 📄 Output Formats
+## 8. Output Formats
 
 Simpan hasil scan dalam berbagai format untuk analisis atau dokumentasi.
 
@@ -227,7 +227,7 @@ xmllint --xpath "//port[@portid='443']" hasil_scan.xml
 
 ---
 
-## 🚀 Quick Reconnaissance — Perintah All-in-One
+## Quick Reconnaissance — Perintah All-in-One
 
 Perintah lengkap yang biasa dipakai untuk recon awal dalam CTF atau pentest:
 
