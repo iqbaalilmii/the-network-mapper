@@ -1,6 +1,6 @@
 # 🗺️ Nmap Cheat Sheet — Security Assessment & CTF
 
-> **Disclaimer:** Gunakan hanya pada sistem yang Anda miliki atau memiliki izin eksplisit untuk melakukan pengujian. Unauthorized scanning adalah ilegal.
+
 
 ---
 
